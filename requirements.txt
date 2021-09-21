@@ -4,6 +4,6 @@ jupyter==1.0.0
 Pillow==5.4.1
 numpy==1.21.2
 scikit-learn==0.20.2
-tensorflow==2.2.0
+tensorflow==2.6.0
 matplotlib==3.0.2
 gunicorn==19.0.0
